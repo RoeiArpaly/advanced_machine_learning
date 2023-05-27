@@ -1,8 +1,8 @@
 # Advanced Machine Learning
-
-Course 3945 IDC.
-ex1:
-ex2:
-ex3:
+<br><br>
+Course 3945 IDC. <br>
+ex1:<br>
+ex2:<br>
+ex3:<br>
 
 Final project...
