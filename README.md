@@ -7,7 +7,7 @@ EX1:
 * Clustering methods
 * Classification.
 
-
+<br><br>
 EX2 Ensemble Methods:
 * Adaboost
 * Gradient boosting model
