@@ -5,8 +5,12 @@ EX1:<br>
 * Dimensionality reduction
 * Clustering methods
 * Classification <br><br>
-ex2:<br>
-* Ensemble Methods (Adaboost, 
-ex3:<br>
+EX2 Ensemble Methods:<br>
+* Adaboost
+* Gradient boosting model<br><br>
+
+
+EX3 Explainable AI:<br>
+
 
 Final project...
