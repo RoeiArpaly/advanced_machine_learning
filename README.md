@@ -2,15 +2,15 @@
 <br><br>
 Course 3945 IDC.
 
-EX1:<br>
+EX1:
 * Dimensionality reduction
 * Clustering methods
 * Classification.
 
 
-EX2 Ensemble Methods:<br>
+EX2 Ensemble Methods:
 * Adaboost
-* Gradient boosting model<br>
+* Gradient boosting model
 
 
 EX3 Explainable AI:<br>
