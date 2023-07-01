@@ -1,5 +1,6 @@
 # Advanced Machine Learning
-Course 3945 Reichman University.
+#### Course 3945 Reichman University.
+Roei Arpaly & Ron Darmon
 
 ### EX1 Unsupervised Learning & Dimensionality Reduction:
 * Dimensionality reduction
