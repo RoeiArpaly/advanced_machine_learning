@@ -1,18 +1,17 @@
 # Advanced Machine Learning
-<br><br>
-Course 3945 IDC.
+Course 3945 Reichman University.
 
-EX1:
+### EX1 Unsupervised Learning & Dimensionality Reduction:
 * Dimensionality reduction
 * Clustering methods
-* Classification.
+* Classification
 
-<br><br>
-EX2 Ensemble Methods:
+### EX2 Ensemble Methods:
+* Gradient Boosting Trees
 * Adaboost
-* Gradient boosting model
+* Decision Boundaries
 
-EX3 Explainable AI:<br>
-
-
-Final project...
+### EX3 Explainable AI:
+* Image Classification
+* Super Pixels
+* LIME - Local Interpretable Model-agnostic Explanations
